@@ -8,6 +8,9 @@ This repository contains a collection of Google Colab notebooks that delve into 
 
 **Chapter 1: Introduction to Python and its Ecosystem**
 
+https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter1.ipynb
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter1.ipynb)
 
 Get introduced to the world of Python programming and explore the components of its diverse ecosystem.
