@@ -13,8 +13,10 @@ Get introduced to the world of Python programming and explore the components of 
 
 
 **Chapter 2: Diving Deeper into Python Basics**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter1.ipynb)
 
-Go beyond the basics and dive deep into Python's fundamental concepts, ensuring a robust foundation for advanced topics.
+
+Dive into Python's fundamental concepts, ensuring a robust foundation for advanced topics.
 
 
 
