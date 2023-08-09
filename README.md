@@ -8,10 +8,7 @@ This repository contains a collection of Google Colab notebooks that delve into 
 
 **Chapter 1: Introduction to Python and its Ecosystem**
 
-https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter1.ipynb
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter1.ipynb)
 
 Get introduced to the world of Python programming and explore the components of its diverse ecosystem.
 
@@ -19,7 +16,7 @@ Get introduced to the world of Python programming and explore the components of 
 
 **Chapter 2: Diving Deeper into Python Basics**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter2.ipynb)
 
 
 Dive into Python's fundamental concepts, ensuring a robust foundation for advanced topics.
@@ -28,7 +25,7 @@ Dive into Python's fundamental concepts, ensuring a robust foundation for advanc
 
 **Chapter 3: Advanced Python Concepts**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter3.ipynb)
 
 Explore advanced topics in Python that enhance your programming capabilities and allow for more complex applications.
 
@@ -36,7 +33,7 @@ Explore advanced topics in Python that enhance your programming capabilities and
 
 **Chapter 4: Python Libraries for Data Manipulation**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter4.ipynb)
 
 Discover the power of Python libraries that assist in handling and manipulating data, an essential skill for any data-driven application.
 
@@ -44,7 +41,7 @@ Discover the power of Python libraries that assist in handling and manipulating 
 
 **Chapter 5: Effective Programming Practices**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter5.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter5.ipynb)
 
 Learn about best practices in Python programming, ensuring your code is efficient, readable, and maintainable.
 
@@ -52,7 +49,7 @@ Learn about best practices in Python programming, ensuring your code is efficien
 
 **Chapter 6: Introduction to Databases and Python**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matteonot12/pythoncourse/blob/main/python_foundations_chapter6.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter6.ipynb)
 
 Dive into the world of databases and understand how Python interacts with them, providing a foundation for data storage and retrieval.
 
