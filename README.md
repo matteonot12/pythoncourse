@@ -6,7 +6,7 @@ This repository contains a collection of Google Colab notebooks that delve into 
 
 
 
-**Chapter 1: Introduction to Python and its Ecosystem (Skipp if you attend the workshop from Michal)**
+**Chapter 1: Introduction to Python and its Ecosystem (Skip if you attend the workshop from Michal)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteonot12/pythoncourse/blob/main/python_foundations_chapter1.ipynb)
 
